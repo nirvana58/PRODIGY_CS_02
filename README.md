@@ -25,6 +25,4 @@ You can customize the complexity criteria by modifying the `check_password_compl
 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
-## License
-
-[MIT](https://choosealicense.com/licenses/mit/)
+)
